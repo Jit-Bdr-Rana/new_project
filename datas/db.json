@@ -1,0 +1,13 @@
+{
+  "employee": [
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "address": "baneshwor",
+      "phone": "9811112399",
+      "age": "21",
+      "gender": "male",
+      "id": 1677375616351
+    }
+  ]
+}
